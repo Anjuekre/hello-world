@@ -2,5 +2,6 @@ Project flow is as follows:
 
 Plan requirements ---> Code  ---> Build ---> Test ---> Deploy ---> Maintain/Monitor
 
+Please follow the above flow and implement CI/CD.
 
 Thanks 
